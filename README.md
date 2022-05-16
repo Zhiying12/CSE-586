@@ -1,5 +1,5 @@
 # CSE-586 Project
-   
+    
 ## How to run it
 
 1. Clone the project to your local computer and load the submodules
